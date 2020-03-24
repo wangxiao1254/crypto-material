@@ -9,3 +9,6 @@
 6. [DIMACS/MACS Workshop on Cryptography for the RAM Model of Computation](http://dimacs.rutgers.edu/archive/Workshops/RAM/program.html)
 7. [DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation](http://dimacs.rutgers.edu/events/details?eID=400)
 8. 
+
+## Other nice series
+1. [Historical Papers in Cryptography Seminar Series](https://www.youtube.com/watch?v=0Ioe4PG8N_4&list=PLgKuh-lKre13lX4C_5ZCQKMDOniAn24NP)
